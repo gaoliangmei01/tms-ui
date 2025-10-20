@@ -1,1 +1,10 @@
-hello
+ saveSuccessText: '保存成功',
+    updateSuccessText: '更新成功',
+    deleteSuccessText: '删除成功',
+    testSuccessText: '测试成功',
+    copySuccessText: '复制成功',
+    abortedSuccessText: '终止成功',
+    passSuccessText: '已通过',
+    rejectSuccessText: '已驳回',
+    operationSuccessText: '操作成功',
+    operationFailedText: '操作失败',
